@@ -16,7 +16,9 @@ Mod contents:
 - Scrap Metal Fragment
 
 **1 new Biome** (Accessible from the Scrapyard Portal Fragment)
-  <img width="2560" height="1377" alt="Hytale2026-02-02_22-44-33" src="https://github.com/user-attachments/assets/3ceef82f-7366-4cde-9ed1-32798d233229" />
+- Holds 15 new structures to look at and explore through!
+
+<img width="2560" height="1377" alt="Hytale2026-02-02_22-44-33" src="https://github.com/user-attachments/assets/3ceef82f-7366-4cde-9ed1-32798d233229" />
 
 ## Gameplay:
 
