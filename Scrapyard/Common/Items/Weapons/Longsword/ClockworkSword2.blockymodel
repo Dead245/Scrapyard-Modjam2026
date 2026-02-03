@@ -1,0 +1,695 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "R-Attachment",
+      "position": {"x": 0, "y": 27, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 0, "y": 0, "z": 0},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Origin_Projectile",
+          "position": {"x": 0, "y": 77, "z": 0},
+          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 0, "y": 0, "z": 0},
+            "settings": {
+              "isPiece": true
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Origin_Item",
+              "position": {"x": 0, "y": -41, "z": 0},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": 0, "z": 0},
+                "stretch": {"x": 0, "y": 0, "z": 0},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Handle",
+                  "position": {"x": 0, "y": -36, "z": 0},
+                  "orientation": {"x": -0.5, "y": -0.5, "z": 0.5, "w": 0.5},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": -6, "y": 0, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 25, "y": 5, "z": 5}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 25, "y": 10},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 0, "y": 10},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 0, "y": 10},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "bottom": {
+                        "offset": {"x": 0, "y": 10},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Pommel",
+                      "position": {"x": -14, "y": 0, "z": 0},
+                      "orientation": {"x": 0.34202, "y": 0, "z": 0, "w": 0.93969},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 0, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 6, "y": 8, "z": 8}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 73, "y": 21},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 73, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 67, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 73, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 67, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 67, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "Pommel",
+                          "position": {"x": -2, "y": 0, "z": 0},
+                          "orientation": {"x": -0.38268, "y": 0, "z": 0, "w": 0.92388},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": -1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 10, "y": 13},
+                              "normal": "+Z"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 63, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "7",
+                              "name": "Pommel",
+                              "position": {"x": 0, "y": 0, "z": 0},
+                              "orientation": {"x": 0.70711, "y": 0, "z": 0, "w": 0.70711},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": -1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 10, "y": 13},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 63, "y": 18},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "8",
+                      "name": "Crossguard",
+                      "position": {"x": 15.00048, "y": 0, "z": 0.00001},
+                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 0, "z": 0},
+                        "stretch": {"x": 1, "y": 1.05, "z": 1.07},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 5, "y": 10, "z": 6}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 12, "y": 0},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 0, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 7, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 0, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 7, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 7, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "9",
+                          "name": "Crossguard",
+                          "position": {"x": 4.99952, "y": 0, "z": -0.00001},
+                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 0.96953, "z": 1.06995},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 7, "y": 14, "z": 7}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 28, "y": 32},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 180
+                              },
+                              "right": {
+                                "offset": {"x": 28, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 21, "y": 32},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 180
+                              },
+                              "left": {
+                                "offset": {"x": 25, "y": 1},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 14, "y": 25},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 14, "y": 25},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "10",
+                              "name": "Blade",
+                              "position": {"x": 3.5, "y": 0, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 14, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 0.85, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 28, "y": 14, "z": 3}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 60, "y": 1},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 57, "y": 1},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 32, "y": 1},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "top": {
+                                    "offset": {"x": 32, "y": 1},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 32, "y": 1},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "11",
+                                  "name": "Blade",
+                                  "position": {"x": 14, "y": 0, "z": 0},
+                                  "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": 15.5, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 0.9, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 31, "y": 12, "z": 2}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 91, "y": 2},
+                                        "mirror": {"x": true, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 89, "y": 2},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 60, "y": 2},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 60, "y": 2},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 60, "y": 2},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "flat"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "12",
+                                      "name": "Blade",
+                                      "position": {"x": 15.5, "y": 0, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 7.5, "y": 0, "z": 0},
+                                        "stretch": {"x": 1, "y": 0.9, "z": 0.1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 11},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 81, "y": 20},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "flat"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "13",
+                                  "name": "Spikes Blade",
+                                  "position": {"x": -2.02782, "y": -5.15996, "z": 0},
+                                  "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 14, "y": 14},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 49, "y": 15},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                },
+                                {
+                                  "id": "14",
+                                  "name": "Spikes Blade",
+                                  "position": {"x": -1.97878, "y": 5.46016, "z": 0},
+                                  "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 14, "y": 14},
+                                      "normal": "-Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 63, "y": 15},
+                                        "mirror": {"x": true, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "15",
+                              "name": "Guard",
+                              "position": {"x": 0.11442, "y": -8.33333, "z": 0},
+                              "orientation": {"x": 0.70711, "y": 0, "z": 0, "w": 0.70711},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": 3},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 6, "y": 4, "z": 10}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 4, "y": 19},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 90
+                                  },
+                                  "right": {
+                                    "offset": {"x": 14, "y": 15},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 14, "y": 25},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 90
+                                  },
+                                  "left": {
+                                    "offset": {"x": 4, "y": 25},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "top": {
+                                    "offset": {"x": 4, "y": 25},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 14, "y": 25},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 270
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "16",
+                                  "name": "GuardEnd",
+                                  "position": {"x": 0.41332, "y": 0, "z": 5.25785},
+                                  "orientation": {"x": 0.67438, "y": 0.21263, "z": -0.21263, "w": 0.67438},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 7, "y": -5, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 7},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 21, "y": 25},
+                                        "mirror": {"x": true, "y": false},
+                                        "angle": 90
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "17",
+                              "name": "Guard",
+                              "position": {"x": 0.11442, "y": 8.33333, "z": 0},
+                              "orientation": {"x": 0.70711, "y": 0, "z": 0, "w": 0.70711},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": -3},
+                                "stretch": {"x": 1, "y": 1, "z": -1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 6, "y": 4, "z": 10}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 4, "y": 19},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 90
+                                  },
+                                  "right": {
+                                    "offset": {"x": 14, "y": 15},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 14, "y": 25},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 90
+                                  },
+                                  "left": {
+                                    "offset": {"x": 4, "y": 25},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "top": {
+                                    "offset": {"x": 4, "y": 25},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 14, "y": 25},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 270
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "18",
+                                  "name": "GuardEnd",
+                                  "position": {"x": 0.41332, "y": 0, "z": -5.25785},
+                                  "orientation": {"x": -0.67438, "y": -0.21263, "z": -0.21263, "w": 0.67438},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 7, "y": -5, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 7},
+                                      "normal": "-Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 21, "y": 19},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 90
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "19",
+                              "name": "Moon",
+                              "position": {"x": 8, "y": 0, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 10, "y": 17, "z": 5}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 45, "y": 15},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 35, "y": 15},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}
