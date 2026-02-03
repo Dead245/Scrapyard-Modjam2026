@@ -7,7 +7,7 @@ Mod contents:
 
 <img width="389" height="199" alt="ScrapyardNewItems" src="https://github.com/user-attachments/assets/7452b614-940a-48ad-9fb9-5e945c9e064d" />
 
-- Clockwork Sword (Longsword)
+- Clockwork Sword (Longsword) *(has animation!)*
 - Mechanical Crossbow
 - Scrapyard Portal Fragment
 - Rusted Scrap Steel Block
