@@ -3,7 +3,7 @@
 Hytale mod created during the Hytale Modjam - January 2026.
 =======
 Mod contents:
-7 new items/blocks:
+**7 new items/blocks:**
 
 <img width="389" height="199" alt="ScrapyardNewItems" src="https://github.com/user-attachments/assets/7452b614-940a-48ad-9fb9-5e945c9e064d" />
 
@@ -15,12 +15,16 @@ Mod contents:
 - Scrap Metal Panel - Flat
 - Scrap Metal Fragment
 
-1 new Biome (Accessible from the Scrapyard Portal Fragment)
+**1 new Biome** (Accessible from the Scrapyard Portal Fragment)
   <img width="2560" height="1377" alt="Hytale2026-02-02_22-44-33" src="https://github.com/user-attachments/assets/3ceef82f-7366-4cde-9ed1-32798d233229" />
 
 ## Gameplay:
 
-Obtain Scrap Metal Fragments from harvesting new blocks found in the Scrapyard world, OR find loot in a few different structures.
+Craft yourself a new Portal Fragment at the Arcanist's Bench!
+
+You have 7 minutes. Obtain Scrap Metal Fragments and Iron Ingots from harvesting new blocks found only in the Scrapyard world, OR find new loot in a few different structures.
+
+If you cannot find the new items in loot chests, then you can craft them with Scrap Metal Fragments!
 
 <img width="2560" height="1377" alt="Hytale2026-02-02_22-45-48" src="https://github.com/user-attachments/assets/ff1db711-3de7-4f78-983e-1c663f9601d4" />
 Find some chests in a large wooden crate...
