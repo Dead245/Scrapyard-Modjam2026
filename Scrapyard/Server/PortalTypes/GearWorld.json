@@ -1,0 +1,19 @@
+{
+  "InstanceId": "Portals_GearWorld",
+  "Description": {
+    "DisplayName": "server.portals.scrapyard.name",
+    "FlavorText": "server.portals.scrapyard.description",
+    "ThemeColor": "#f9dba7",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.portals.scrapyard.tip1"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 160,
+    "ScanHeight": 60,
+    "MinRadius": 4000,
+    "MaxRadius": 4000,
+    "ChunkDartThrows": 35
+  }
+}

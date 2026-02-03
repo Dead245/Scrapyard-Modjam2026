@@ -1,0 +1,7789 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -18,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -18,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -18,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -18,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -18,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -17,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -17,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -17,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -17,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -17,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -17,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -17,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -17,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -16,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -16,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -16,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -16,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -16,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -16,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -16,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -16,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -16,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -16,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -16,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -15,
+      "y": 12,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -15,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -15,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -15,
+      "y": 12,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -15,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -15,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 10,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -15,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -15,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -15,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -14,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -14,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -14,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -14,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -14,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -14,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -14,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -14,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -14,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -14,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": -14,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": -13,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -13,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 16,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -13,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": -5,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": -13,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -13,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": 15,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -12,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -12,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -12,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -12,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -12,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -12,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -12,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -12,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -12,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -12,
+      "y": -4,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -11,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -11,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -11,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -11,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -11,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -11,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -11,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -11,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -11,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -11,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -3,
+      "z": 2,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -11,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -11,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -11,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -10,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -10,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -10,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -10,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -10,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -10,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -10,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -9,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -9,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -9,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -9,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -9,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": -8,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 20,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": -8,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -8,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -8,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -8,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -8,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": -8,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": 19,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -7,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -7,
+      "y": -9,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -7,
+      "y": -8,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -6,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -6,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -6,
+      "y": -7,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": -9,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -5,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 22,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 22,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 20,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -5,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -7,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -5,
+      "y": -9,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": -4,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 22,
+      "z": -5,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 21,
+      "z": -4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": -8,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 20,
+      "z": -6,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": -5,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 22,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -3,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": 20,
+      "z": -6,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 22,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 23,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 22,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 23,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 22
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 2,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 22
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 23,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 23,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 18,
+      "z": -4,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 22,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 22,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 20,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": -1,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 5,
+      "y": 17,
+      "z": -3,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 5,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 5,
+      "y": -9,
+      "z": 4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 19,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": 6,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 6,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 6,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -9,
+      "z": 3,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 6,
+      "y": -9,
+      "z": 4,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": -8,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 7,
+      "y": 20,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 7,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 20,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 7,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 20,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 15,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 7,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": 7,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 7,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 7,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 7,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": 21,
+      "z": -5,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 8,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 20,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 21,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 8,
+      "y": 13,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 8,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 15,
+      "z": -2,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 8,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 8,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 8,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 9,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 19,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 9,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -2,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 9,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 18,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 10,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 18,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 10,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 16,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 10,
+      "y": -3,
+      "z": 1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 10,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Cobble"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 16
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": 15,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": 11,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 17,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 11,
+      "y": 19,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 11,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 19,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 11,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 11,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Red"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -2,
+      "z": 1,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": 11,
+      "y": -8,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -8,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 26
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 12,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 17,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 15,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 16,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": 12,
+      "y": -4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 12,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 16,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 13,
+      "y": 17,
+      "z": -4,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 13,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 16,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 13,
+      "y": 17,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": -1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 6
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 13,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -6,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 13,
+      "y": -5,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 13,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 13,
+      "y": -6,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 13,
+      "y": -5,
+      "z": 3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "z": -3,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red"
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 14,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 14,
+      "y": -1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 14,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth"
+    },
+    {
+      "x": 14,
+      "y": -1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 13,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "z": -3,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 28
+    },
+    {
+      "x": 15,
+      "y": -3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 15,
+      "y": -2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 15,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone_Red",
+      "rotation": 12
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 4
+    },
+    {
+      "x": 15,
+      "y": -3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half",
+      "rotation": 10
+    },
+    {
+      "x": 15,
+      "y": -2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth_Half"
+    },
+    {
+      "x": 16,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 16,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 16,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 12
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Smooth",
+      "rotation": 28
+    }
+  ]
+}

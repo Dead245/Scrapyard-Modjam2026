@@ -1,0 +1,91 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Scrap_Metal_Smooth.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Scrap_Metal_Smooth.png",
+  "Set": "",
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "DropList": {
+          "Type": "Multiple",
+          "Containers": [
+            {
+              "Type": "Single",
+              "Item": {
+                "ItemId": "Ingredient_Scrap_Metal_Fragment"
+              },
+              "Weight": 80
+            },
+            {
+              "Type": "Single",
+              "Item": {
+                "ItemId": "Ingredient_Bar_Iron"
+              },
+              "Weight": 60
+            }
+          ],
+          "Container": {
+            "Type": "Multiple",
+            "Containers": [
+              {
+                "Type": "Single",
+                "Item": {
+                  "ItemId": "Ingredient_Scrap_Metal_Fragment"
+                },
+                "Weight": 100
+              },
+              {
+                "Type": "Single",
+                "Item": {
+                  "ItemId": "Ingredient_Bar_Iron"
+                },
+                "Weight": 30
+              }
+            ]
+          }
+        }
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "Textures": [
+      {
+        "All": "Items/Blocks/RustedMetal2.png",
+        "Weight": 1
+      }
+    ],
+    "BlockSoundSetId": "Metal",
+    "ParticleColor": "#a9a9a9",
+    "VariantRotation": "UpDownNESW",
+    "RandomRotation": "YawStep1XZ"
+  },
+  "Tags": {
+    "Family": [
+      ""
+    ],
+    "Type": [
+      "Rock"
+    ]
+  },
+  "Parent": "Rock_Gold_Brick",
+  "ResourceTypes": [
+    {
+      "Id": "Scrap_Metal",
+      "Quantity": 2
+    }
+  ],
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal"
+}

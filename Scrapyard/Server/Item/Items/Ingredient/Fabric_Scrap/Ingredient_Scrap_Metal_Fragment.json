@@ -1,0 +1,52 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Scrap_Metal_Fragment.name",
+    "Description": "server.items.Scrap_Metal_Fragment.description"
+  },
+  "Categories": [
+    "Items.Ingredients"
+  ],
+  "Model": "Resources/Materials/Fabric_Scrap.blockymodel",
+  "Texture": "Items/Materials/Scrap_Metal.png",
+  "Quality": "Common",
+  "ItemLevel": 10,
+  "PlayerAnimationsId": "Item",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -6
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Ingredient_Scrap_Metal_Fragment.png",
+  "Tags": {
+    "Type": [
+      "Ingredient"
+    ]
+  },
+  "ItemEntity": {
+    "ParticleSystemId": null
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "DropOnDeath": true,
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Scrap_Metal",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Processing",
+        "Id": "Salvagebench"
+      }
+    ],
+    "TimeSeconds": 4
+  }
+}

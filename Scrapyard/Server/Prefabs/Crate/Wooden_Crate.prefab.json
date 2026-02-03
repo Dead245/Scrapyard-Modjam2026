@@ -1,0 +1,4439 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -9,
+      "y": 0,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 1,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 4,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 8,
+      "z": -10,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -9,
+      "y": 0,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 1,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 4,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": -9,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 0,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 1,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 4,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 0,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 1,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 4,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -12,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 4,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 5,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -8,
+      "y": 8,
+      "z": -10,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -3,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -11,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Gold_Brick_Smooth_Half"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -6,
+      "name": "*Rock_Gold_Brick_Smooth_Half_State_Definitions_Block"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 5,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -12,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -9,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "*Furniture_Tavern_Chest_Large_State_Definitions_CloseWindow",
+      "components": {
+        "Components": {
+          "container": {
+            "Position": {
+              "X": 23,
+              "Y": 81,
+              "Z": 26
+            },
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 36,
+              "Items": {
+                "25": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "27": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "14": {
+                  "Id": "Ore_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "11": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "30": {
+                  "Id": "Ingredient_Bar_Iron",
+                  "Quantity": 2,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "32": {
+                  "Id": "Ore_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "1": {
+                  "Id": "Armor_Steel_Ancient_Legs",
+                  "Quantity": 1,
+                  "Durability": 75.0,
+                  "MaxDurability": 75.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "16": {
+                  "Id": "Weapon_Sword_Steel_Rusty",
+                  "Quantity": 1,
+                  "Durability": 80.0,
+                  "MaxDurability": 80.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "23": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 2,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "21": {
+                  "Id": "Ore_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            }
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "*Furniture_Tavern_Chest_Large_State_Definitions_CloseWindow",
+      "filler": 32,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Moss_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 5,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 6,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 6,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 6,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 7,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -12,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -12,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -11,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -9,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Gold_Brick_Smooth_Half"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Moss_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -13,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -12,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -12,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -10,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 5,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 10,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -13,
+      "name": "Plant_Moss_Block_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -12,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -10,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 6,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -12,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -11,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Gold_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -13,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -12,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -8,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -7,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Moss_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -13,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -12,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -12,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -12,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -11,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -10,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -9,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 3,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 6,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -12,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -12,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -11,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -10,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Clay"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 8,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "name": "Plant_Moss_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 9,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -8,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -8,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -7,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -6,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Furniture_Tavern_Chest_Small",
+      "components": {
+        "Components": {
+          "container": {
+            "Position": {
+              "X": 31,
+              "Y": 81,
+              "Z": 0
+            },
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {
+                "0": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 3,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "2": {
+                  "Id": "Ore_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "1": {
+                  "Id": "Ingredient_Bar_Iron",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "3": {
+                  "Id": "Tool_Sickle_Steel_Rusty",
+                  "Quantity": 1,
+                  "Durability": 60.0,
+                  "MaxDurability": 60.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -7,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -6,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 0,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 8,
+      "name": "Plant_Moss_Short_Green",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 9,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -4,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 1,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 2,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 3,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 9,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 4,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Grid"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 5,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 5,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 7,
+      "name": "Wood_Hardwood_Planks"
+    }
+  ]
+}

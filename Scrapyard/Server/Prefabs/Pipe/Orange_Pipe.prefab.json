@@ -1,0 +1,11341 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -7,
+      "y": -4,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": -3,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": -4,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": -3,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -6,
+      "y": -4,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -3,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -4,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -3,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -4,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -3,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -5,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -6,
+      "y": -4,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -3,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": -5,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -6,
+      "y": -4,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -6,
+      "y": -3,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 16,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -6,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": -6,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -4,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -3,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -6,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -6,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -6,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -7,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -6,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": -7,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -6,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -5,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -4,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -3,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 0,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 1,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 10,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -7,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -7,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -6,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -5,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -4,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -3,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 9,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 9,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -7,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -7,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -6,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -5,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -4,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -3,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 5,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 6,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 7,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 13,
+      "name": "Furniture_Tavern_Chest_Small",
+      "components": {
+        "Components": {
+          "container": {
+            "Position": {
+              "X": 8,
+              "Y": 82,
+              "Z": 9
+            },
+            "Custom": false,
+            "AllowViewing": true,
+            "ItemContainer": {
+              "Capacity": 18,
+              "Items": {
+                "0": {
+                  "Id": "Ingredient_Scrap_Metal_Fragment",
+                  "Quantity": 4,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "2": {
+                  "Id": "Armor_Steel_Ancient_Head",
+                  "Quantity": 1,
+                  "Durability": 75.0,
+                  "MaxDurability": 75.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "4": {
+                  "Id": "Armor_Steel_Ancient_Chest",
+                  "Quantity": 1,
+                  "Durability": 75.0,
+                  "MaxDurability": 75.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "1": {
+                  "Id": "Weapon_Longsword_Clockwork",
+                  "Quantity": 1,
+                  "Durability": 170.0,
+                  "MaxDurability": 170.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "3": {
+                  "Id": "Ore_Iron",
+                  "Quantity": 2,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                },
+                "5": {
+                  "Id": "Ingredient_Bar_Iron",
+                  "Quantity": 2,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            }
+          }
+        }
+      },
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 13,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 14,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 15,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 16,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 17,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 18,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 19,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 9
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 9
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 9
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 9
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -3,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 6,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 10,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 11,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 12,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 13,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 14,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -9,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 2,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 3,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 9,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 18,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 10
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -13,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -7,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -4,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -3,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 4,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -3,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 2,
+      "y": -2,
+      "z": 9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -7,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -7,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -11,
+      "name": "Plant_Moss_Cave_Green",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -5,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -5,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -4,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -4,
+      "name": "Plant_Moss_Wall_Green",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -3,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": 2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": 3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": 4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -7,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -7,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -10,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -9,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -5,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -4,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -3,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -2,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -1,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -15,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -14,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -13,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -12,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -11,
+      "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -10,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -9,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -8,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -7,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -6,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -20,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -19,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -18,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -17,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -16,
+      "name": "Empty"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -15,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -14,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -13,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -12,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -11,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -19,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -18,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -17,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -16,
+      "name": "Soil_Clay_Smooth_Orange"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -20,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -19,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 11
+    }
+  ]
+}

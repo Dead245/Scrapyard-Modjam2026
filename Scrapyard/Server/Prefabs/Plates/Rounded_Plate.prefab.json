@@ -1,0 +1,1431 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -8,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -8,
+      "y": -2,
+      "z": 8,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -8,
+      "y": -2,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -7,
+      "y": -2,
+      "z": 10,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -6,
+      "y": -2,
+      "z": 10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 7,
+      "name": "Plant_Moss_Block_Green"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -2,
+      "z": 10,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 8,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -2,
+      "z": 9,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Moss_Short_Green"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -2,
+      "z": 9,
+      "name": "Plant_Moss_Block_Green"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Moss_Green"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Plant_Moss_Green"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -2,
+      "z": 8,
+      "name": "Plant_Moss_Block_Green"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -5,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -5,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -7,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -7,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -9,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -8,
+      "name": "Plant_Moss_Rug_Green",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -7,
+      "name": "Plant_Moss_Cave_Green",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -7,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Plant_Moss_Short_Green"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Moss_Cave_Green",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -8,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -7,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Scrap_Metal_Panel"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -7,
+      "name": "Plant_Moss_Green"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -8,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -7,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -6,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 1
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -6,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 2,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 3,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": -5,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": -5,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": -4,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth",
+      "rotation": 3
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 1,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 2,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Moss_Wall_Green",
+      "rotation": 1
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": -3,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": -2,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": -1,
+      "name": "Scrap_Metal_Smooth"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 0,
+      "name": "Scrap_Metal_Smooth"
+    }
+  ]
+}

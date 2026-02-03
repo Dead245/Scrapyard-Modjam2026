@@ -1,0 +1,20 @@
+{
+  "Group": "DeadWolf",
+  "Name": "Scrapyard",
+  "Version": "1.0.0",
+  "Description": "Made for Modjam during January 2026.",
+  "Authors": [
+    {
+      "Name": "DeadWolf",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

@@ -1,0 +1,96 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Scrap_Metal_Panel.name"
+  },
+  "Categories": [
+    "Blocks.Structural"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Structures/Roofs/Tent_Roof_Horizontal.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/Blocks/Scrap_Metal_Panels.png",
+        "Weight": 4
+      }
+    ],
+    "Group": "Roof",
+    "HitboxType": "Block_Flat",
+    "VariantRotation": "UpDown",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Ingredient_Scrap_Metal_Fragment",
+        "DropList": {
+          "Type": "Multiple",
+          "Containers": [
+            {
+              "Type": "Single",
+              "Item": {
+                "ItemId": "Ingredient_Scrap_Metal_Fragment"
+              },
+              "Weight": 80
+            },
+            {
+              "Type": "Single",
+              "Item": {
+                "ItemId": "Ingredient_Bar_Iron"
+              },
+              "Weight": 60
+            }
+          ],
+          "Container": {
+            "Type": "Multiple",
+            "Containers": [
+              {
+                "Type": "Single",
+                "Item": {
+                  "ItemId": "Ingredient_Scrap_Metal_Fragment"
+                },
+                "Weight": 30
+              }
+            ]
+          }
+        }
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "Supporting": {},
+    "BlockSoundSetId": "Metal",
+    "RandomRotation": "YawStep90",
+    "ParticleColor": "#7b7a7a"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -4.8
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Scrap_Metal_Panel.png",
+  "Tags": {
+    "Type": [
+      "Cloth"
+    ],
+    "Family": [
+      "Leather"
+    ],
+    "SubType": [
+      "Roof"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "ResourceTypes": [
+    {
+      "Id": "Scrap_Metal"
+    }
+  ]
+}

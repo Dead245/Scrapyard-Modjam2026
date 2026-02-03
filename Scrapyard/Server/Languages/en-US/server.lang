@@ -1,0 +1,14 @@
+items.PortalKey_GearWorld.name=Fragment: Scrapyard
+items.PortalKey_GearWorld.description= Portal fragment to take you to an ancient, overgrown scrapyard.
+items.Weapon_Crossbow_Mechanical.name=Mechanical Crossbow
+items.Weapon_Crossbow_Mechanical.description=Crossbow utilizing gears for increased damage.\n\nUtilizes Crude Arrows.
+items.Weapon_Longsword_Clockwork.name=Clockwork Sword
+items.Weapon_Longsword_Clockwork.description=Strange sword that somehow utilizes torque for increased damage.
+items.Scrap_Metal_Smooth.name=Scrap Metal Block
+items.Scrap_Metal_Grid.name=Rusted Scrap Steel Block
+items.Scrap_Metal_Panel.name=Scrap Metal Panel - Flat
+portals.scrapyard.name=Scrapyard
+portals.scrapyard.description= A lush, overgrown area that invites you to loot the ancient machinery laying across the landscape.
+items.Scrap_Metal_Fragment.name=Scrap Metal Fragment
+items.Scrap_Metal_Fragment.description=Small piece of scrap metal harvested or looted from the Scrapyard zone.
+portals.scrapyard.tip1=Try to harvest the scrap metal from objects,\nsome even have treasure to be found.
